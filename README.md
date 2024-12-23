@@ -7,8 +7,8 @@ This repo stores the website for the BrickMMO Loot Crypto Coin brand.
 > This repo is available to view at  
 > https://wattswrong.brickmmo.com
 
-> Loot branding guidelines are available at:
-> https://branding.brickmmo.com/loot
+> Watts Wrong Corporation branding guidelines are available at:  
+> https://branding.brickmmo.com/watts
 
 ---
 
